@@ -1,0 +1,17 @@
+The Battle of Neighborhood
+
+
+COVID-19 Data Analysis and Forecasting 
+
+
+INTRODUCTION SECTION :
+
+This section consists of the basic gist of the project I have taken up. 
+As we know that the current global scenario is such due to the outbreak of worldwide pandemic COVID-19 we are struggling to know the current count in a region.
+
+This capstone project would help us know the COVID count in a searched place and also compare the situations of various states of the country.
+Lastly, the project also focuses on a prediction to know the future count in a particular state in our country using Prophet framework.
+
+DATA SECTION:
+The data section includes the foursquare API to search for a particular place and inform us about the number of COVID positives in the state. I used the Four Square API through the venues channel. I used the near query to get venues in the cities. 
+Other data sets being used are also attached in the GitHub link additionally.
